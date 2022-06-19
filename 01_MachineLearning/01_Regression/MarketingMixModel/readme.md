@@ -1,6 +1,6 @@
 Data set is borrowed from https://www.kaggle.com/datasets/sazid28/advertising.csv?resource=download
 
-This data set is releated to Marketing Mix Model which helps in determining the market attribution. Using this fictional dataset we will try to predict the sales outcome based upon the spendings on TV, radio and newspaper. 
+This data set is related to Marketing Mix Model which helps in determining the market attribution. Using this fictional dataset we will try to predict the sales outcome based upon the spending’s on TV, radio and newspaper. 
 
 I have tried to solve this problem using simple linear regression techniques. 
 
